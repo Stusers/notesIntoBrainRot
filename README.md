@@ -11,8 +11,11 @@ Why settle for boring notes when you are used to reels.
 🚀 Features:
 
 🖼️ Imgflip API Integration: Add memes and humor to your notes effortlessly.
+
 🤖 OpenAI API Support: Use AI to summarize, reformat, and enhance your notes. Smarter notes, happier you! 🧠🎉
+
 🌐 Cross-Platform Compatibility:
+
 🌟 Website integration (coming soon).
 ✨ Obsidian Plugin support (coming soon).
 🎮 Discord Bot functionality (coming soon).
