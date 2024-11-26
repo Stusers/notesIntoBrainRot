@@ -1,4 +1,5 @@
 config.json
+noteselector.py
 
 __pycache__/
 *.pyc
